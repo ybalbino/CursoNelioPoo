@@ -1,6 +1,6 @@
-package org.example.aplication;
+package org.triangulo.aplication;
 
-import org.example.entities.Triangle;
+import org.triangulo.entities.Triangle;
 
 import java.util.Scanner;
 

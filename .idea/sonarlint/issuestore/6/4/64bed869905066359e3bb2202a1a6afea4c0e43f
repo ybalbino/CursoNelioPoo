@@ -1,0 +1,12 @@
+
+G
+java:S1659"*Declare "posicaoMaior" on a separate line.(¸²òÅ8«ñ§©1
+G	java:S106"+Replace this use of System.out by a logger.(¥ªİÎ8¬ñ§©1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁÀõ¼8­ñ§©1
+G	java:S106"+Replace this use of System.out by a logger.(ÁÀõ¼8­ñ§©1
+L	java:S106"+Replace this use of System.out by a logger.(‡äÌïüÿÿÿÿ8­ñ§©1
+G	java:S106"+Replace this use of System.out by a logger.(ğË¹¶8­ñ§©1
+s
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(İÅòüùÿÿÿÿ8„‰ô§©1
+L	java:S106!"+Replace this use of System.out by a logger.(İÅòüùÿÿÿÿ8—Îñ§©1
